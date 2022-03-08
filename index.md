@@ -1,6 +1,6 @@
-### SPACE LESLY ###
+###SPACE LESLY###
 
- ## ¡BIENVENIDOS! ##
+ ##¡BIENVENIDOS!##
  
  MI NOMBRE ES LESLY YATANA PEREA CAMPOS, SOY LA MEJOR DE MANICURISTA Y PEDICURISTA  DE LA CDMX ,AQUI ENCONTRARAS LO SGUIENTE 
  
@@ -8,11 +8,11 @@
  - PEDICURE
  - APLICACION DE UÑAS
  - APLICACION DE PESTAÑAS 
-      -Pestañas individuales.
-      -Pestañas de pelo a pelo.
-      -Pestañas en grupo.
-      -Pestañas enteras.
-      -Pestañas magnéticas
+ -Pestañas individuales.
+ -Pestañas de pelo a pelo.
+ -Pestañas en grupo.
+ -Pestañas enteras.
+ -Pestañas magnéticas
  - GELISH
  - DEPILACION DE CEJA
  - PIGMENTACION DE CEJA 
@@ -26,3 +26,4 @@ UBICADOS EN CALLE: GENERAL ANAYA #34 COL. ROMERO RUBIO ,ESQUINA, bucarel
 Horarios de atencion es de 11:00 am a 9:00 pm
 
 ### NO OLVIDES AGENDAR TU CITA ###
+
