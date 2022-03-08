@@ -13,9 +13,9 @@
    - Pestañas en grupo.
    - Pestañas enteras.
    - Pestañas magnéticas
-   - GELISH
-   - DEPILACION DE CEJA
-   - PIGMENTACION DE CEJA 
+ - GELISH
+ - DEPILACION DE CEJA
+ - PIGMENTACION DE CEJA 
 
 PARA AGENDAR TUS CITAS LLAMA AL TELEFONO: 56166666963
 
