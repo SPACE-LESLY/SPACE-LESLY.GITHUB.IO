@@ -1,9 +1,12 @@
-### SPACE LESLY
+  ### SPACE LESLY
 
-                                                                                BIENVENIDOS 
+                                                                   BIENVENIDOS 
 
  
- MI NOMBRE ES LESLY YATANA PEREA CAMPOS, SOY LA MEJOR DE MANICURISTA Y PEDICURISTA  DE LA CDMX ,AQUI ENCONTRARAS LO SGUIENTE 
+  [servicios](./servicios.md) | [costos](./costos.md) | [ubicacion](./ubicacion.md) | [reconocimiento](./reconocimiento)
+
+
+MI NOMBRE ES LESLY YATANA PEREA CAMPOS, SOY LA MEJOR DE MANICURISTA Y PEDICURISTA  DE LA CDMX ,AQUI ENCONTRARAS LO SGUIENTE 
  
  - MANICURE
  - PEDICURE
