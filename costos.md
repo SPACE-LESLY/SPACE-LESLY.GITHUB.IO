@@ -1,5 +1,7 @@
 [servicios](./servicios.md) | [costos](./costos.md) | [ubicacion](./ubicacion.md) | [reconocimiento](./reconocimiento)
 
+  ### COSTOS 
+
 | uñas agrilicas | Costo | Promociones |
 |----------|-------|--------------|
 |  largo #3 | 180 | 2x1 | 
