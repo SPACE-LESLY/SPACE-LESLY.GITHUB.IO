@@ -1,8 +1,8 @@
-[servicios](./servicios.md) | [costos](./costos.md) | [ubicacion](./ubicacion.md) | [reconocimiento](./reconocimiento)
+[servicios](./servicios.md) | [costos](./costos.md) | [ubicacion](./ubicacion.md) | [cursos](./cursos.md)
 
 ## UBICACION / SUCURSALES 
     
-   ### MATRIZ 
+### MATRIZ 
    
    - NOS UBICAMOS  EN CALLE: GENERAL ANAYA #34 COL. ROMERO RUBIO ,ESQUINA BUCARELI
 
@@ -10,7 +10,7 @@
   ![image](https://user-images.githubusercontent.com/100151866/157765994-db134449-d09a-46d1-98ab-93fcb7165a6e.png)
 
   
-   ### SUCURSAL N°1 
+  ### SUCURSAL N°1 
    
     - NOS UBICAMOS EN CALLE : AZTECAS  #56 COL. CENTO,ESQUINA COL.MORELOS 
     
@@ -20,7 +20,7 @@
 
     
     
-   ### SUCURSAL Nº2
+ ### SUCURSAL Nº2
     
      -NOS UBICAMOS EN AVENIDA MORELOS #46 COL.MADALENA MIXUCA COL TRONCOSO
      
@@ -28,7 +28,7 @@
   ![image](https://user-images.githubusercontent.com/100151866/157765873-9e80ebd0-b863-4980-9a96-df574b824409.png)
 
    
-   ### SUCURSAL Nº3
+ ### SUCURSAL Nº3
      
      -NOS UBICAMOS EN Lorenzo Boturini 258, Centro, Cuauhtémoc, 06840 Ciudad de México, CDMX
      
