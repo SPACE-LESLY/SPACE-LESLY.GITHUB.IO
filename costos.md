@@ -1,4 +1,4 @@
-[servicios](./servicios.md) | [costos](./costos.md) | [ubicacion](./ubicacion.md) | [reconocimiento](./reconocimiento)
+[servicios](./servicios.md) | [costos](./costos.md) | [ubicacion](./ubicacion.md) | [curso](./curso.md)
 
 ### COSTOS 
 
