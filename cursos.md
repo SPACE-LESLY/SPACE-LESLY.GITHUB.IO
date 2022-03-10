@@ -44,6 +44,8 @@
 | CURSO | TIEMPO | COSTO | 
 |-------|--------|-------|
 | RIZADO DE PESTAÑAS | 5 MESES | 4,500 |
+
+
 ![image](https://user-images.githubusercontent.com/100151866/157769789-c643ac39-3ceb-4989-ae21-e35821516d8b.png)
 
 
