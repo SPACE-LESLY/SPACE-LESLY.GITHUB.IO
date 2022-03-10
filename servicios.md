@@ -4,7 +4,8 @@
 
 > Los tratamientos de manicura y pedicura te proporcionarán el cuidado que tus manos y pies merecen. Contribuyen a la salud y la belleza de tu piel que estas zonas se ve especialmente maltratada por los agentes externos día a día.
 
-![image](https://user-images.githubusercontent.com/100151866/157765085-ee5acb37-866d-4beb-96c1-9c7939dad117.png)
+![image](https://user-images.githubusercontent.com/100151866/157769950-4222036a-a35e-48cd-9c86-fccce00c449b.png)
+
 
 
 >
