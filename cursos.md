@@ -1,5 +1,8 @@
 [servicios](./servicios.md) | [costos](./costos.md) | [ubicacion](./ubicacion.md) | [cursos](./cursos.md)
 
+## CURSOS 
+
+
 | CURSO | TIEMPO | COSTO  | 
 |-------|--------|---------|
 | APLICACION UÑAS ACRILICAS Y GELISH  | 5 MESES | 5,500 | 
