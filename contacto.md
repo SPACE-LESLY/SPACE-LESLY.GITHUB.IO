@@ -8,5 +8,6 @@
   <label for="name">Nombres:</label><br>
   <input type="text" id="name" name="name" value="Tus nombres">
   <label for="Iname">Apellidos:</label><br>
-  <input type="text"id="Iname" name="Iname" value="Apellidos">
+  <input type="text"id="Iname" name="Iname" value"Apellidos">
+</form>
          
