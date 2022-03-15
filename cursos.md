@@ -2,11 +2,12 @@
 
 ## CURSOS 
 
+| CURSO | TIEMPO | COSTOS | 
+|-------|--------|--------|
+| APLICACION DE UÑAS ACRILICAS Y GELISH | 3 MESES | 6,000 |
 
-| CURSO | TIEMPO | COSTO  | 
-|-------|--------|---------|
-| APLICACION UÑAS ACRILICAS Y GELISH  | 5 MESES | 5,500 | 
- - SE ENTREGA MATERIAL COMPLETO 
+- SE ENTREGA MATERIAL COMPLETO 
+
 
  ![image](https://user-images.githubusercontent.com/100151866/157768414-d946461f-8104-42b1-aa8b-2199d702b266.png)
 
